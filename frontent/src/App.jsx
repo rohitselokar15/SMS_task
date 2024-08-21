@@ -1,6 +1,6 @@
 import React from 'react';
 import Image from './components/Image';
-import Data from './components/Data.jsX';
+import Data from './components/Data.jsx'
 
 
 const App = () => {
